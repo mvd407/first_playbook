@@ -1,0 +1,8 @@
+---
+
+- name: test
+  hosts: node1
+  become: yes
+  tasks:
+    - name:
+  
